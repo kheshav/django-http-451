@@ -1,0 +1,4 @@
+include LICENSE
+include README.rst
+recursive-include http451/geoip *
+recursive-include http451/templates *
